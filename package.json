@@ -1,13 +1,16 @@
 {
-  "name": "@bobderrico80/react-html-parser",
+  "name": "@bobderrico/react-html-parser",
   "version": "1.0.0",
   "description": "A lightweight parser to convert an HTML string into React elements",
   "author": "bobderrico80",
   "license": "MIT",
-  "repository": "bobderrico80/react-html-parser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobderrico80/react-html-parser.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
-  "source": "src/index.tsx",
+  "source": "src/index.ts",
   "engines": {
     "node": ">=10"
   },
@@ -59,5 +62,13 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/bobderrico80/react-html-parser/issues"
+  },
+  "homepage": "https://github.com/bobderrico80/react-html-parser#readme",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {}
 }
