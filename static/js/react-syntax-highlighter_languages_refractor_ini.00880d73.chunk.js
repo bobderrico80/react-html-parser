@@ -1,0 +1,2 @@
+(this["webpackJsonp@bobderrico/react-html-parser-example"]=this["webpackJsonp@bobderrico/react-html-parser-example"]||[]).push([[60],{143:function(t,e,a){"use strict";function s(t){t.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}t.exports=s,s.displayName="ini",s.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_ini.00880d73.chunk.js.map
