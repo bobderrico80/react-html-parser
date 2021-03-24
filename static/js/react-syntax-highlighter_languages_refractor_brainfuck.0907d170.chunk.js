@@ -1,0 +1,2 @@
+(this["webpackJsonp@bobderrico/react-html-parser-example"]=this["webpackJsonp@bobderrico/react-html-parser-example"]||[]).push([[18],{108:function(e,a,t){"use strict";function r(e){e.languages.brainfuck={pointer:{pattern:/<|>/,alias:"keyword"},increment:{pattern:/\+/,alias:"inserted"},decrement:{pattern:/-/,alias:"deleted"},branching:{pattern:/\[|\]/,alias:"important"},operator:/[.,]/,comment:/\S+/}}e.exports=r,r.displayName="brainfuck",r.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_brainfuck.0907d170.chunk.js.map

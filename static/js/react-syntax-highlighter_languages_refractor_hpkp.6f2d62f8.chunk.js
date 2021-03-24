@@ -1,2 +1,0 @@
-(this["webpackJsonp@bobderrico/react-html-parser-example"]=this["webpackJsonp@bobderrico/react-html-parser-example"]||[]).push([[54],{137:function(e,a,r){"use strict";function t(e){e.languages.hpkp={directive:{pattern:/\b(?:(?:includeSubDomains|preload|strict)(?: |;)|pin-sha256="[a-zA-Z\d+=/]+"|(?:max-age|report-uri)=|report-to )/,alias:"keyword"},safe:{pattern:/\d{7,}/,alias:"selector"},unsafe:{pattern:/\d{1,6}/,alias:"function"}}}e.exports=t,t.displayName="hpkp",t.aliases=[]}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_refractor_hpkp.6f2d62f8.chunk.js.map
